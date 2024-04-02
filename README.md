@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinPal5
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working on .net development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me google
 
